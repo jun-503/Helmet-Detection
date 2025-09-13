@@ -317,3 +317,6 @@ This project follows the same license as the original YOLOv8 implementation.
 
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) for the base implementation
 - The computer vision community for best practices and techniques
+
+## Author
+Muhammad Junaid Zia
