@@ -1,0 +1,28 @@
+# Core YOLO dependencies
+ultralytics>=8.0.0
+torch>=1.8.0
+torchvision>=0.9.0
+
+# Data processing and visualization
+numpy>=1.21.0
+opencv-python>=4.5.0
+Pillow>=8.3.0
+matplotlib>=3.3.0
+seaborn>=0.11.0
+
+# Configuration and utilities
+PyYAML>=6.0
+tqdm>=4.62.0
+pandas>=1.3.0
+
+# Optional: For advanced features
+# albumentations>=1.1.0  # Advanced augmentation
+# wandb>=0.12.0          # Weights & Biases logging
+# tensorboard>=2.7.0     # TensorBoard logging
+# onnx>=1.10.0           # ONNX export
+# onnxruntime>=1.10.0    # ONNX runtime
+
+# Development and testing
+pytest>=6.2.0
+black>=21.0.0
+flake8>=3.9.0
